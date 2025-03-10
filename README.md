@@ -1,7 +1,7 @@
 # Smart Bokashi Monitoring System  
 
 ## 📌 Project Description  
-This project is a **Smart Bokashi Compost Monitoring System** using an **ESP32** and various sensors to track temperature, moisture, pH, and water level. The data is sent to **Blynk** for remote monitoring.
+This project is a **Smart Bokashi Compost Monitoring System** using an **ESP32** and various sensors to track temperature, moisture, pH, and water level. The data is sent to **Blynk** for remote monitoring.  
 
 ## 🛠️ Hardware Used  
 - **ESP32**  
@@ -9,7 +9,6 @@ This project is a **Smart Bokashi Compost Monitoring System** using an **ESP32**
 - **MAX485 Module**  
 - **DHT22 Temperature & Humidity Sensor**  
 - **Water Level Sensor**  
-- **OLED Display (SSD1306 0.96")**  
 
 ## 📦 Software & Libraries  
 - **Arduino IDE**  
@@ -29,9 +28,8 @@ This project is a **Smart Bokashi Compost Monitoring System** using an **ESP32**
 3. **Connect to WiFi** and open the **Blynk app** to monitor data.  
 
 ## 📷 Circuit Diagram  
-The circuit schematic and wiring diagram are included in this repository:  
-- **[schematic_diagram.pdf](./schematic_diagram.pdf)**  
-- **[wiring_diagram.jpg](./wiring_diagram.jpg)**  
+- `schematic_diagram.pdf`  
+- `wiring_diagram.jpg`  
 
 ## 📝 Notes  
 ⚠️ **Don't forget to replace WiFi credentials and Blynk tokens in the code before uploading.**  
